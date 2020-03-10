@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "task": "Comprar flores",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "task": "Testar funções em typescript",
+      "complete": false
+    },
+    {
+      "id": 5,
+      "task": "test",
+      "complete": false
+    },
+    {
+      "id": 6,
+      "task": "test1",
+      "complete": false
+    }
+  ]
+}
